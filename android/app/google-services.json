@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "424311809036",
+    "project_id": "phishing-tools",
+    "storage_bucket": "phishing-tools.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424311809036:android:33ac387875dcc0027dba29",
+        "android_client_info": {
+          "package_name": "sam.has.phishingtools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424311809036-gbcgr34i2rb5gmd4e1vm7v9hrm2lgf2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_Zkuk1_sI4PHusv8t-HJg_XYTTHF-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424311809036-gbcgr34i2rb5gmd4e1vm7v9hrm2lgf2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:424311809036:android:3afcb170172fa3cc7dba29",
+        "android_client_info": {
+          "package_name": "sam.has.phishingtools.PhishingTools"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "424311809036-gbcgr34i2rb5gmd4e1vm7v9hrm2lgf2j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCv_Zkuk1_sI4PHusv8t-HJg_XYTTHF-SQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "424311809036-gbcgr34i2rb5gmd4e1vm7v9hrm2lgf2j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
